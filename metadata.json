@@ -1,0 +1,5 @@
+{
+  "name": "SAT/ACT Prep Hub",
+  "description": "A personal, lightweight, and functional Notion-style dashboard to centralize your SAT and ACT studies, track progress, and manage materials. All data is saved locally in your browser.",
+  "requestFramePermissions": []
+}
